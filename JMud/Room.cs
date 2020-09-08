@@ -26,11 +26,22 @@ namespace JMud
             var randomNumb=randomNumber.Next(1, 4);
             for (int i = 1; i < 3; i++)
             {
-                Contents.Add(new Armor());
+                Contents.Add(Armor.GetRandomItem());
             }
 
             return Contents;
 
+        }
+
+        public void ShowContents()
+        {
+            foreach (var item in Contents)
+            {
+                Console.WriteLine(item.description);
+            }
+            {
+                
+            }
         }
     }
 }

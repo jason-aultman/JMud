@@ -55,7 +55,8 @@ namespace JMud
         public void MakeDamageSpellList()
         {
             DamageSpells.Add(new DamageSpell("Fireblast", "A firey ball is hurled from your palm", 10));
-            
+            DamageSpells.Add(new DamageSpell("Earthen Spike", "The ground rumbles as stone pillars burst forth from the ground", 5));
+            DamageSpells.Add(new DamageSpell("Ice Shard", "You hurl an icy spike towards the enemy!", 7));
         }
 }
 }

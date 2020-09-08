@@ -4,11 +4,22 @@
     <projectFile>JMud/JMud.csproj</projectFile>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6e7906e8-053d-4dca-b63d-33ece09ef981" name="Default Changelist" comment="" />
+    <list default="true" id="6e7906e8-053d-4dca-b63d-33ece09ef981" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.JMud/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.JMud/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JMud/Armor.cs" beforeDir="false" afterPath="$PROJECT_DIR$/JMud/Armor.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JMud/Game.cs" beforeDir="false" afterPath="$PROJECT_DIR$/JMud/Game.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JMud/Item.cs" beforeDir="false" afterPath="$PROJECT_DIR$/JMud/Item.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JMud/Player.cs" beforeDir="false" afterPath="$PROJECT_DIR$/JMud/Player.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JMud/PlayerClasses/Monk.cs" beforeDir="false" afterPath="$PROJECT_DIR$/JMud/PlayerClasses/Monk.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JMud/Room.cs" beforeDir="false" afterPath="$PROJECT_DIR$/JMud/Room.cs" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="HighlightingSettingsPerFile">
     <setting file="file://$PROJECT_DIR$/JMud/Game.cs" root0="SKIP_HIGHLIGHTING" />
@@ -18,11 +29,8 @@
       <list>
         <option value="$PROJECT_DIR$/JMud/Door.cs" />
         <option value="$PROJECT_DIR$/JMud/Weapon.cs" />
-        <option value="$PROJECT_DIR$/JMud/Armor.cs" />
         <option value="$PROJECT_DIR$/JMud/World.cs" />
-        <option value="$PROJECT_DIR$/JMud/Room.cs" />
         <option value="$PROJECT_DIR$/JMud/InputHandler.cs" />
-        <option value="$PROJECT_DIR$/JMud/Item.cs" />
         <option value="$PROJECT_DIR$/JMud/FileHandler.cs" />
         <option value="$PROJECT_DIR$/JMud/0001.txt" />
         <option value="$PROJECT_DIR$/JMud/ArmorClass.cs" />
@@ -32,13 +40,17 @@
         <option value="$PROJECT_DIR$/JMud/DamageSpell.cs" />
         <option value="$PROJECT_DIR$/JMud/Monk.cs" />
         <option value="$PROJECT_DIR$/JMud/Mob.cs" />
-        <option value="$PROJECT_DIR$/JMud/Game.cs" />
-        <option value="$PROJECT_DIR$/JMud/Player.cs" />
         <option value="$PROJECT_DIR$/JMud/PlayerClasses/Monk.cs" />
+        <option value="$PROJECT_DIR$/JMud/Player.cs" />
+        <option value="$PROJECT_DIR$/JMud/Armor.cs" />
+        <option value="$PROJECT_DIR$/JMud/Item.cs" />
+        <option value="$PROJECT_DIR$/JMud/Room.cs" />
+        <option value="$PROJECT_DIR$/JMud/Game.cs" />
       </list>
     </option>
   </component>
   <component name="ProjectId" id="1h5essW1PtFnksJfZ6CoaN1gIcm" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -83,6 +95,7 @@
       <updated>1599305590305</updated>
       <workItem from="1599305593031" duration="8137000" />
       <workItem from="1599392837636" duration="12887000" />
+      <workItem from="1599490278486" duration="3117000" />
     </task>
     <servers />
   </component>
@@ -93,22 +106,22 @@
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
   </component>
   <component name="WindowStateProjectService">
-    <state width="1860" height="279" key="GridCell.Tab.0.bottom" timestamp="1599485467727">
+    <state width="1860" height="279" key="GridCell.Tab.0.bottom" timestamp="1599490705688">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1860" height="279" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1599485467727" />
-    <state width="1860" height="279" key="GridCell.Tab.0.center" timestamp="1599485467727">
+    <state width="1860" height="279" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1599490705688" />
+    <state width="1860" height="279" key="GridCell.Tab.0.center" timestamp="1599490705688">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1860" height="279" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1599485467727" />
-    <state width="1860" height="279" key="GridCell.Tab.0.left" timestamp="1599485467727">
+    <state width="1860" height="279" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1599490705688" />
+    <state width="1860" height="279" key="GridCell.Tab.0.left" timestamp="1599490705688">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1860" height="279" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1599485467727" />
-    <state width="1860" height="279" key="GridCell.Tab.0.right" timestamp="1599485467727">
+    <state width="1860" height="279" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1599490705688" />
+    <state width="1860" height="279" key="GridCell.Tab.0.right" timestamp="1599490705688">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1860" height="279" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1599485467727" />
+    <state width="1860" height="279" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1599490705688" />
     <state x="788" y="207" key="RiderGenerateDialog" timestamp="1599480257221">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>

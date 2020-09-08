@@ -17,12 +17,15 @@ namespace JMud
             {
 
                 Console.WriteLine(FileHandler.GetRoomDataFromFile(@"C:\Users\jason\RiderProjects\JMud\JMud\RoomObjectDescriptions\0001.txt"));
+                Console.WriteLine($"Room contains: {}");
                 Monk player = new Monk();
                 player.Health = 50;
-                playerClass = PlayerClass.Monk;
+                player.PlayerClass = playerClass;
                 player.ArmorClass = ArmorClass.Leather;
                 
                 player.CastDamageSpell(0);
+                player.CastDamageSpell(1);
+                player.CastDamageSpell(2);
                 
 
 

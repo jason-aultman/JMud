@@ -12,7 +12,7 @@ namespace JMud
             switch (choice)
             {
                 case 1 :
-                    return new Armor();
+                    return Armor.GetRandomItem();
                     break;
                 case 2:
                     return new Weapon();

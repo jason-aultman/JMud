@@ -1,4 +1,5 @@
 ﻿using System;
+using System.Collections.Generic;
 
 namespace JMud
 {
@@ -6,12 +7,14 @@ namespace JMud
     {
         public int Health { get; set; }
         public int BaseArmor { get; set; }
+        public List<Armor> PLayerArmor;
         public string PlayerName { get; set; }
         public ArmorClass ArmorClass;
         public PlayerClass PlayerClass;
 
         public Player()
         {
+            this.PLayerArmor = new List<Armor>();
             GetPlayerName();
         }
 
